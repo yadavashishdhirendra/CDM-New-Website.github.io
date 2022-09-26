@@ -6,7 +6,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $("#footer").load(
-    "Assets/Banner/footer.html"
+    "Assets/Banner/Footer.html"
   );
 });
 
